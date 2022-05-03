@@ -1,4 +1,4 @@
-## 1.  Given x and y. Find a,b such that ((b^a)*x)=y
+## 1. [numerical 1]  Given x and y. Find a,b such that ((b^a)*x)=y
 
     #!/usr/bin/python3
 
